@@ -1,0 +1,139 @@
+.imagebox{
+     background: url('https://i.postimg.cc/76kStDSv/food-wallpaper.png');
+ ;
+    border-style: solid ;
+    border-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+body{
+    margin: auto;
+}
+#icon{
+    text-align: center;
+    margin: auto;
+    color: red;
+    font-size: 60px;
+    font-weight: bold;
+    background-color: honeydew;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 80px;
+    border-radius: 80%;
+    margin-top: 80px;
+
+}
+#companyname
+{
+    text-align:center;
+     margin: auto;
+     margin-top: 20px;
+     margin-bottom: 20px;
+    margin-left: 550px;
+   
+    color:rgb(44, 36, 36);
+     font-size: 50px;
+    font-weight:bold; 
+    width: 10px;
+
+}
+.heading{
+    text-align: center;
+    color:#ffffff;
+    /* width: 754px;
+    height: 51px;
+    font-family:Poppins; */
+    font-size: 36px;
+    /* font-style: normal;
+    font-weight: 600; */
+
+}
+.locationselect
+{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.locationDropDown{
+    width: 245px;
+    height: 55px;
+    border-radius: 0%;
+    font-size: 20px;
+    border: none;
+
+}
+.restaurantinput{
+    border: none;
+    width: 370px;
+    height: 55px;
+    border-radius: 0%;
+    font-size: 20px;
+    margin-left: 5px;
+    line-height: 1.53;
+    letter-spacing: normal
+}
+.QuickSearchbox{
+    margin-left: 115px;
+    margin-top: 50px;
+
+}
+.QuickSearchtopic{
+    text-align: left;
+    color: #192f60;
+    font-size: 30px;
+    line-height: 1.5;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.QuickSearchSubtopic
+{
+    text-align: left;
+    color: grey;
+    line-height: .01;
+    letter-spacing: normal;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titlebox{
+    box-shadow: 0 3px 5px black;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width: 350px;
+    height: 150px;
+    background-color: white;
+    display: inline-block;
+}
+
+.titlecomponent1{
+    width: 50%;
+    float: left;
+}
+.titlecomponent2{
+    width: 50%;
+    float: left;
+}
+.componentHeading{
+    text-align: center;
+    color: #192f60;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.componentSubHeading
+{
+    text-align: left;
+    color: grey;
+    font-size: 14px;
+}
+#myword
+{
+    color:red;
+}
+.footer
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
